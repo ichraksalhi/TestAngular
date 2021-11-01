@@ -1,0 +1,27 @@
+body {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65)), to(rgba(47, 23, 15, 0.65))), url("../img/image1.jpg");
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../img/image1.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.textarea {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50rem;
+  height: 4rem;
+  background: rgba(63, 10, 207, 0.65);
+  aspect-ratio: 100 / 2;
+}
+
+.result {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  background: rgba(204, 57, 7, 0.65);
+  aspect-ratio: 10 / 2;
+}
+/*# sourceMappingURL=main.css.map */
